@@ -4,6 +4,12 @@ body {
     width: 0px;
 }
 
+.control {
+    width: auto;
+    height: 3px;
+    background-color: navy;
+}
+
 .TileLogo {
     width: 10px;
     height: 700px;
